@@ -19,6 +19,8 @@ creator:
     - http://www.gutenberg.org/browse/authors/u#a49
     - http://en.wikipedia.org/wiki/Anonymity
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38929#Quacks-and-Grafters
 gutenberg_issued: '2012-02-21'
 gutenberg_type: Text
 identifiers:
